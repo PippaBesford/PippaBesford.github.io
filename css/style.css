@@ -1,0 +1,53 @@
+/* profile.css */
+html {
+  background-color: #3CB371;
+}
+
+body {
+  background: none;
+  color: #3CB371;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+strong {
+  color: #3CB371;
+}
+
+.navbar {
+  background: #228B22;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: #3CB371;
+  border-color: #3CB371;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #228B22;
+  border-color: #e05164;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: #228B22;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.description {
+  background-image: url("/pattern.png");
+  background-repeat: repeat-x;
+}
